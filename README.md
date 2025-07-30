@@ -1,82 +1,30 @@
-## Customer Behavior Analysis Project
-# Description
-Analyzing customer behavior based on data is becoming necessary for any business to understand its consumer base. In this project, you’ll learn how to define and analyze customer churn metrics, such as customer retention rate, customer re-subscription rate, customer lifetime value, and more. We’ll work with a real database, query it using MySQL, and create a Tableau dashboard based on the customer data. You’ll learn how to create maps and cohort tables, use Tableau filters, and more
+# Customer Churn Analysis with SQL and Tableau
 
+This repository is part of my portfolio, demonstrating my proficiency in SQL and Tableau through a customer churn analysis project. Here, I apply data extraction and visualization techniques to analyze customer churn metrics for a SaaS business.
 
----
+## Project Overview
 
-# **Customer Behavior Analytics: Churn and Retention Metrics**
+In this project, I used SQL to query a real-world customer database and extract key insights related to customer behavior. I then visualized these insights in Tableau, creating a multi-page dashboard that tells the story of customer churn, retention, and lifetime value. This work reflects my ability to leverage data analytics to identify patterns, uncover revenue-impacting insights, and support strategic decision-making.
 
-## Overview
-In this project, you'll learn how to define and analyze customer churn metrics, such as customer retention rate, re-subscription rate, and customer lifetime value. You will work with a real customer database, query it using **MySQL**, and create powerful **Tableau** dashboards to visualize and interpret key customer data. 
+## Skills and Tools Demonstrated
 
-By the end of this project , you'll have the skills to analyze customer behavior, segment users, and create dynamic visualizations, enabling businesses to make data-driven decisions and improve customer retention strategies.
+- **SQL for Data Extraction**: Wrote SQL queries to pull relevant customer data from MySQL, focusing on metrics related to churn, retention, and customer lifetime value.
+- **Data Visualization with Tableau**: Built a multi-page, well-formatted dashboard in Tableau that visualizes key insights, including churn trends, cohort analysis, and revenue breakdowns.
+- **Customer Behavior Analysis**: Applied data analytics to calculate and interpret metrics such as customer retention rate, re-subscription rate, and churn rate, providing a comprehensive view of customer behavior.
+- **Business Acumen**: Used data to develop actionable insights that could potentially enhance customer retention and increase revenue.
 
-### **Learning Outcomes**:
-- **Customer Retention Rate**: Measure the percentage of customers who continue using the service over time.
-- **Customer Re-subscription Rate**: Understand how often customers return after churn.
-- **Customer Lifetime Value (CLV)**: Calculate the total revenue a customer generates during their relationship with a business.
-- **Churn Analysis**: Identify trends and reasons behind customer attrition.
-- **Cohort Analysis**: Segment users into cohorts to track retention and engagement over time.
-- **Data Visualization**: Build dynamic **Tableau dashboards** using customer behavior data.
+## Key Components
 
-### **Tools & Technologies**:
-- **MySQL**: For querying and managing customer data.
-- **Tableau**: For creating data visualizations, including maps, cohort tables, and interactive dashboards.
-## - Topics
- - Dashboard
-- MySQL query
-- Bar chart
-- Data visualization
-- Customer churn
-- Data analysis
-- Order frequency table
-- Bubble chart
-- Cohort analysis table
-- Line chart
-- Maps
-- SQL
+1. **Data Preparation**  
+   Structured and cleaned data to ensure accuracy and relevance for the analysis.
 
+2. **Churn Analysis in Tableau**  
+   Created charts and visualizations to highlight customer churn patterns and trends, including:
+   - Retention and churn rates over time
+   - Cohort analysis to track user behavior by subscription date
+   - Customer lifetime value and revenue contributions
 
+3. **Dashboard Creation and Interpretation**  
+   Developed a multi-page Tableau dashboard that presents a clear and interactive overview of churn metrics, lifetime value, and revenue breakdowns, with actionable insights for strategic decision-making.
 
----
-
-## Getting Started
-
-
-
-### 2. **Install Dependencies**:
-Tools Required
-List any tools or dependencies required to run the project.
-
-## MySQL
-## Tableau
-
-### **3. Data Analysis & Visualization in Tableau**:
-Using **Tableau**, you will:
-- Create interactive dashboards to visualize churn rates, retention, and customer lifetime value.
-- Build **cohort analysis tables** to track customer behavior over time.
-- Use **maps** to visualize customer distribution by region.
-
-You will create various types of visualizations, including:
-- **Bar Charts**: To visualize churn rates and retention metrics.
-- **Cohort Tables**: To analyze how different customer groups behave over time.
-- **Maps**: To see customer distribution across geographic regions.
-
----
-
-## Visualizations
-
-### Key Dashboards:
-- **Churn Analysis**: A **bar chart** showing customer churn rate over different periods (e.g., monthly, quarterly).
-- **Customer Lifetime Value (CLV)**: Visualize the long-term value of customers using a **line chart** or **scatter plot**.
-- **Cohort Analysis**: Visualize how customer retention changes over time, segmented by the month of first purchase.
-
-Sample visualizations:
-- **Churn Rate Visualization**:
-  
-
-- **Customer Lifetime Value (CLV)**:
-
-
----
+This project showcases my ability to utilize SQL and Tableau for in-depth data analysis and visualization, reinforcing my skills in data-driven decision-making and customer behavior analysis.
